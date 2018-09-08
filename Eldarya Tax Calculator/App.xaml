@@ -6,7 +6,6 @@
 	RequestedTheme="Light">
 	<Application.Resources>
 		<Style x:Key="ButtonEldarya" TargetType="Button">
-			<!-- FontFamily="Rubik" Foreground="#FFFFFFFF" BorderBrush="#FF2293FB" Background="#FF2293FB" BorderThickness="2" -->
 			<Setter Property="Background" Value="#FF2293FB" />
 			<Setter Property="Foreground" Value="#FFFFFFFF" />
 			<Setter Property="BorderBrush" Value="#FF2293FB" />
