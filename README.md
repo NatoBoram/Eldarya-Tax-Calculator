@@ -1,2 +1,3 @@
-# Eldarya-Tax-Calculator
-Tax calculator for Eldarya.
+# Eldarya Tax Calculator
+
+![Screenshot](Screenshots/en_CA.png)
