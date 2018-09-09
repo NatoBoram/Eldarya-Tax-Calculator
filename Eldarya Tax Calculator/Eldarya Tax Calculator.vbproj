@@ -215,6 +215,7 @@
     <Content Include="Backgrounds\popup-topRight.png" />
     <Content Include="Backgrounds\popup-web_portrait.png" />
     <Content Include="Icons\maana.svg" />
+    <Content Include="Icons\white maana.svg" />
     <Content Include="Images\coin_blue.png" />
     <Content Include="Images\coin_gold.png" />
     <Content Include="Images\favicon.png" />
