@@ -1,4 +1,4 @@
-# [Eldarya Tax Calculator](https://www.microsoft.com/store/apps/9NS76GBVLGWT)
+# Eldarya Tax Calculator
 
 ![Screenshot](Screenshots/en_CA.png)
 
