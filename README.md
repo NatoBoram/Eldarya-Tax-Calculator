@@ -1,6 +1,6 @@
 # Eldarya Tax Calculator
 
-![Screenshot](Screenshots/en_CA.png)
+[![Screenshot](Screenshots/en_CA.png)](https://www.microsoft.com/store/apps/9NS76GBVLGWT)
 
 Eldarya Tax Calculator is an Universal Windows Platform app that lets you calculate the market taxes so you can have better prices for your sales.
 
