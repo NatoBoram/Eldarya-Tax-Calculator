@@ -214,6 +214,7 @@
     <Content Include="Backgrounds\popup-topLeft.png" />
     <Content Include="Backgrounds\popup-topRight.png" />
     <Content Include="Backgrounds\popup-web_portrait.png" />
+    <Content Include="Icons\circless-white-hammer.svg" />
     <Content Include="Icons\maana.svg" />
     <Content Include="Icons\white maana.svg" />
     <Content Include="Images\coin_blue.png" />
